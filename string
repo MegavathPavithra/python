@@ -5,3 +5,10 @@ print(len(string1))
 print(len(string2))
 final_string=string1+string2
 print(len(final_string))
+
+#output
+github
+leetcode
+6
+8
+14
