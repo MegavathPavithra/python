@@ -1,0 +1,7 @@
+#length of string
+string1=input()
+string2=input()
+print(len(string1))
+print(len(string2))
+final_string=string1+string2
+print(len(final_string))
